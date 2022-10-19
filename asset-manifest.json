@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/card-match-game/static/css/main.71016e94.css",
-    "main.js": "/card-match-game/static/js/main.3a90a5de.js",
-    "index.html": "/card-match-game/index.html",
-    "main.71016e94.css.map": "/card-match-game/static/css/main.71016e94.css.map",
-    "main.3a90a5de.js.map": "/card-match-game/static/js/main.3a90a5de.js.map"
+    "main.css": "/magic-memory/static/css/main.71016e94.css",
+    "main.js": "/magic-memory/static/js/main.3a90a5de.js",
+    "index.html": "/magic-memory/index.html",
+    "main.71016e94.css.map": "/magic-memory/static/css/main.71016e94.css.map",
+    "main.3a90a5de.js.map": "/magic-memory/static/js/main.3a90a5de.js.map"
   },
   "entrypoints": [
     "static/css/main.71016e94.css",
