@@ -3,12 +3,12 @@ import './App.css';
 import SingleCard from './components/SingleCard';
 
 const cardImages = [
-  { src: './magic-memory/img/king-1.png', matched: false },
-  { src: './magic-memory/img/queen-1.png', matched: false },
-  { src: './magic-memory/img/rook-1.png', matched: false },
-  { src: './magic-memory/img/bishop-1.png', matched: false },
-  { src: './magic-memory/img/knight-1.png', matched: false },
-  { src: './magic-memory/img/pawn-1.png', matched: false },
+  { src: './magic-memory/img/king-1.png?raw=true', matched: false },
+  { src: './magic-memory/img/queen-1.png?raw=true', matched: false },
+  { src: './magic-memory/img/rook-1.png?raw=true', matched: false },
+  { src: './magic-memory/img/bishop-1.png?raw=true', matched: false },
+  { src: './magic-memory/img/knight-1.png?raw=true', matched: false },
+  { src: './magic-memory/img/pawn-1.png?raw=true', matched: false },
 ];
 
 function App() {
