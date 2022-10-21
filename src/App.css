@@ -1,6 +1,7 @@
 .win {
   font-size: 10em;
-  z-index: 1000;
+  position: relative;
+  z-index: 1000 !important;
 }
 
 .App {
